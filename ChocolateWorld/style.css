@@ -1,0 +1,72 @@
+body
+{
+    background-color: black;
+}
+
+
+
+.navbar-brand 
+{
+    background-color: brown;
+  
+    
+}
+span
+{
+    color: white;
+}
+
+
+.carousel
+{
+    margin-top: -20px;
+    height: 500px; /*these are for that slider arrows*/
+    
+}
+
+.carousel .item
+{
+    height:500px;
+    background-color: #777;
+    border-bottom: 500px;
+}
+.carousel-inner > .item > img
+{
+    position: absolute;
+    height: 500px;
+    min-width: 100%;
+    top:0;
+    left: 0;
+}
+
+#bottom 
+{
+    color:white;
+    text-align: center;
+}
+
+.divider
+{
+    margin: 40px 0;        
+}
+
+.col-md-7 > p
+{
+    
+    color: white;
+}
+.col-md-5 > p
+{
+    
+    color: white;
+}
+
+.col-md-7,.col-md-5 > h2
+{
+    color: brown;
+}
+.footer
+{
+    margin:0 110px;
+    
+}
